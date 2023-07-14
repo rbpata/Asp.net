@@ -1,0 +1,4 @@
+E:\Sem-5\Asp.net\Assignment-1\4\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Sem-5\Asp.net\Assignment-1\4\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Sem-5\Asp.net\Assignment-1\4\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Sem-5\Asp.net\Assignment-1\4\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

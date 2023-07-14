@@ -1,0 +1,12 @@
+﻿.class1 {
+        border: 2px solid red;
+        color: blue;
+        background-color: lightgray;
+        font-size:50px;
+    }
+     .class2 {
+        border: 1px dotted green;
+        color: white;
+        background-color: darkblue;
+        font-size:50px;
+    }
